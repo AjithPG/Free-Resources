@@ -23,17 +23,17 @@
     <meta property="og:locale:alternate" content="fr_FR" />//alternate
     
     <!-- Schema.org markup / microdata -->//These tags will improve the way search engines read and represent your page in SERPs.
-    <meta itemprop="name" content="">
-    <meta itemprop="description" content="Best Trade Company in Coimbatore-Exporting good quality coconut products,spices, and Pulses">
-    <meta itemprop="image" content="http://vithultradelinks.com/images/facebook-thumbnil.jpg">
+    <meta itemprop="name" content="Your Object name">
+    <meta itemprop="description" content="a brief description">
+    <meta itemprop="image" content="URL of image">
 
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary”">
-    <meta name="twitter:site" content="http://vithultradelinks.com/">
-    <meta name="twitter:title" content="Vithul Trade Links">
-    <meta name="twitter:description" content="Exporting good quality Coconut products,Spices, and Pulses">
+    <meta name="twitter:site" content="http://sample.com/">
+    <meta name="twitter:title" content="Title Name">
+    <meta name="twitter:description" content="Description">
     <!-- Twitter summary card with large image must be at least 280x150px -->
-    <meta name="twitter:image:src" content="http://vithultradelinks.com/images/Details/facebook-thumbnil.jpg">
-    <meta name="twitter:image:alt" content="Best Trade Company in Coimbatore-Exporting good quality coconut products,spices, and Pulses">
+    <meta name="twitter:image:src" content="http://sample.com/images/twitter-thumbnil.jpg">
+    <meta name="twitter:image:alt" content="alternate name">
     <!--Social Media Analytics-->
-    <meta name="twitter:site" content="@vithultradelink">
+    <meta name="twitter:site" content="@twitterid">
