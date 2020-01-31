@@ -2,6 +2,7 @@
 
 <!--Title-->
 <title>Title of your Page</title>
+<link rel="canonical" href="http://www.yoursitecom/" />
  <!--SEO-->
     <meta name="description" content="Description">
     <meta name="keywords" content="Keywords">
