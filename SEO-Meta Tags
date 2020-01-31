@@ -7,12 +7,30 @@
     <meta name="keywords" content="Keywords">
     <meta name="author" content="Author Name">
     
+    <--Opptional-->
+    <meta name="distribution" content="Global"/>
+ <meta name="coverage" content="worldwide"/>
+ <meta name="rating" content="General"/>
+ <meta name="subject" content="Product-name"/>
+ <meta name="page-type" content="Product-Type"/>
+ <meta name="site-created" content="01-06-2007"/>
+ <meta name="content-language" content="english"/>
+ <meta name="resource-type" content="document"/>
+ <meta name="audience" content="all"/>
+ <meta name="robots" content="index,all"/>
+ <meta name="copyright" content="(c)Your Company Name"/>
+ <meta name="owner" content="Compnay Name"/>
+ <meta name="address" content="Address of your Company"/>
+ <meta name="home_url" content="http://www.yourcomanywebsite.com"/>
+
+    
     <!-- Open Graph data -->
         <!--Basic Meta Data-->
     <meta property="og:title" content="Title name" />
     <meta property="og:type" content="Type of your object" />
     <meta property="og:image" content="An image url that represent your object" />
     <meta property="og:url" content="Canonical URL of your object" />
+    
         <!--Optional Meta Data-->
     <meta property="og:description" content="One or two Line description of your object" />
     <meta property="og:site_name" content="If your object is part of a larger web site, the name which should be displayed for the overall site. e.g., "IMDb" />
