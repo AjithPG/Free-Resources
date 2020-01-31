@@ -1,20 +1,29 @@
 <h1>SEO Meta Tags</h1>
+
 <!--Title-->
 <title>Title of your Page</title>
  <!--SEO-->
-    <meta name="description" content="Best Trade Company in Coimbatore| vithultradelinks -Exporting good quality coconut products,spices, and Pulses">
-    <meta name="keywords" content="Trade Company in Coimbatore,VithulTradeLinks,coconut products,spices pulses,non-food coconut-based products,coir,coir pith,coir pot, safety products,leading exporters of Coconut Products, Spices, and Pulses in Coimbatore">
-    <meta name="author" content="VithulTradeLinks">
+    <meta name="description" content="Description">
+    <meta name="keywords" content="Keywords">
+    <meta name="author" content="Author Name">
+    
     <!-- Open Graph data -->
-    <meta property="og:title" content="Vithul Trade Links" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://vithultradelinks.com/" />
-    <meta property="og:image" content="http://vithultradelinks.com/images/facebook-thumbnil.jpg" />
-    <meta property="og:description" content="Best Trade Company in Coimbatore-Exporting good quality coconut products,spices, and Pulses" />
-    <meta property="og:site_name" content="Vithul Trade Links" />
-
-    <!-- Schema.org markup for Google+ -->
-    <meta itemprop="name" content="VithulTradelinks">
+        <!--Basic Meta Data-->
+    <meta property="og:title" content="Title name" />
+    <meta property="og:type" content="Type of your object" />
+    <meta property="og:image" content="An image url that represent your object" />
+    <meta property="og:url" content="Canonical URL of your object" />
+        <!--Optional Meta Data-->
+    <meta property="og:description" content="One or two Line description of your object" />
+    <meta property="og:site_name" content="If your object is part of a larger web site, the name which should be displayed for the overall site. e.g., "IMDb" />
+    <meta property="og:audio" content="An URL to the audio file http://sample.com/sound.mp3" />
+    <meta property="og:video" content="An URL to the Video file of your object http://sample.com/video.swf" />
+    <meta property="og:determiner" content="the" />//The word that appears before this object's title in a sentence. An enum of (a, an, the, "", auto). If auto is chosen, the consumer of your data should chose between "a" or "an". Default is "" (blank).
+    <meta property="og:locale" content="en_GB" />//The locale these tags are marked up in. Of the format language_TERRITORY. Default is en_US.
+    <meta property="og:locale:alternate" content="fr_FR" />//alternate
+    
+    <!-- Schema.org markup / microdata -->//These tags will improve the way search engines read and represent your page in SERPs.
+    <meta itemprop="name" content="">
     <meta itemprop="description" content="Best Trade Company in Coimbatore-Exporting good quality coconut products,spices, and Pulses">
     <meta itemprop="image" content="http://vithultradelinks.com/images/facebook-thumbnil.jpg">
 
