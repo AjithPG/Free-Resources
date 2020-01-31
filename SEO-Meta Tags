@@ -1,1 +1,30 @@
+<h1>SEO Meta Tags</h1>
+<!--Title-->
+<title>Title of your Page</title>
+ <!--SEO-->
+    <meta name="description" content="Best Trade Company in Coimbatore| vithultradelinks -Exporting good quality coconut products,spices, and Pulses">
+    <meta name="keywords" content="Trade Company in Coimbatore,VithulTradeLinks,coconut products,spices pulses,non-food coconut-based products,coir,coir pith,coir pot, safety products,leading exporters of Coconut Products, Spices, and Pulses in Coimbatore">
+    <meta name="author" content="VithulTradeLinks">
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Vithul Trade Links" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://vithultradelinks.com/" />
+    <meta property="og:image" content="http://vithultradelinks.com/images/facebook-thumbnil.jpg" />
+    <meta property="og:description" content="Best Trade Company in Coimbatore-Exporting good quality coconut products,spices, and Pulses" />
+    <meta property="og:site_name" content="Vithul Trade Links" />
 
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="VithulTradelinks">
+    <meta itemprop="description" content="Best Trade Company in Coimbatore-Exporting good quality coconut products,spices, and Pulses">
+    <meta itemprop="image" content="http://vithultradelinks.com/images/facebook-thumbnil.jpg">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary”">
+    <meta name="twitter:site" content="http://vithultradelinks.com/">
+    <meta name="twitter:title" content="Vithul Trade Links">
+    <meta name="twitter:description" content="Exporting good quality Coconut products,Spices, and Pulses">
+    <!-- Twitter summary card with large image must be at least 280x150px -->
+    <meta name="twitter:image:src" content="http://vithultradelinks.com/images/Details/facebook-thumbnil.jpg">
+    <meta name="twitter:image:alt" content="Best Trade Company in Coimbatore-Exporting good quality coconut products,spices, and Pulses">
+    <!--Social Media Analytics-->
+    <meta name="twitter:site" content="@vithultradelink">
