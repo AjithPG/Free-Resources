@@ -13,7 +13,7 @@ A useful codes,Notes and tutorials for front end developers
    <h3>Text Generator<h3>
  <ul>
    <li>Blind Text Generator:https://www.blindtextgenerator.com/lorem-ipsum</li>
- <ul>
+ </ul>
   <h3>Image Place Holder</h3>
   <ul>
    <li>Placehold:https://placeholder.com/</li>
@@ -39,6 +39,12 @@ A useful codes,Notes and tutorials for front end developers
    <ul>
     <li>Bootstrap Button Generator:http://www.plugolabs.com/twitter-bootstrap-button-generator-3/</li> 
    </ul>
+   <h3>Bootstrap Free Themes</h3>
+   <ul>
+    <li>Bootswatch:https://bootswatch.com/</li>
+    <li>Bootstrapzero:https://www.bootstrapzero.com/</li>
+    <li>StartBootstrap:https://startbootstrap.com/</li>
+  </ul>
 <h2>Gulp Install</h2>
 <p>We need Node.js to run Gulp
 https://nodejs.org/en/</p>
