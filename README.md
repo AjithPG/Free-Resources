@@ -9,13 +9,36 @@ A useful codes,Notes and tutorials for front end developers
  <h3>Wireframing Tool<h3>
  <ul>
    <li>Glify:https://go.gliffy.com/</li>
- <ul>
+ </ul>
    <h3>Text Generator<h3>
  <ul>
    <li>Blind Text Generator:https://www.blindtextgenerator.com/lorem-ipsum</li>
  <ul>
-  
-
+  <h3>Image Place Holder</h3>
+  <ul>
+   <li>Placehold:https://placeholder.com/</li>
+   <li>Lorempixel: http://lorempixel.com/</li>
+  </ul>
+  <h3>Google Hosted Libraries</h3>
+  <ul>
+  <li>Updated Libraries Snippets:https://developers.google.com/speed/libraries</li>
+  </ul>
+  <h3>Live Coding</h3>
+  <ul>
+   <li>Codepen:https://codepen.io/</li>
+  </ul>
+  <h3>Domain Register</h3>
+  <ul>
+   <li>Domain:https://www.domain.com/</li>
+  </ul>
+  <h3>FTP Upload</h3>
+  <ul>
+   <li>Filezilla: https://filezilla-project.org/</li>
+  </ul>
+  <h3>Bootstrap<h3>
+   <ul>
+    <li>Bootstrap Button Generator:http://www.plugolabs.com/twitter-bootstrap-button-generator-3/</li> 
+   </ul>
 <h2>Gulp Install</h2>
 <p>We need Node.js to run Gulp
 https://nodejs.org/en/</p>
