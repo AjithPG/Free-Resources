@@ -10,6 +10,11 @@ A useful codes,Notes and tutorials for front end developers
  <ul>
    <li>Glify:https://go.gliffy.com/</li>
  <ul>
+   <h3>Text Generator<h3>
+ <ul>
+   <li>Blind Text Generator:https://www.blindtextgenerator.com/lorem-ipsum</li>
+ <ul>
+  
 
 <h2>Gulp Install</h2>
 <p>We need Node.js to run Gulp
