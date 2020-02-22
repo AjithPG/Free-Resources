@@ -44,7 +44,14 @@ A useful codes,Notes and tutorials for front end developers
     <li>Bootswatch:https://bootswatch.com/</li>
     <li>Bootstrapzero:https://www.bootstrapzero.com/</li>
     <li>StartBootstrap:https://startbootstrap.com/</li>
+    <li>http://www.bootply.com</li>
+    <li>http://www.layoutit.com</li>
   </ul>
+   <h3>Json Generator</h3>
+   <ul>
+    <li>JSON-Gen::https://next.json-generator.com/</li>
+    <li>JSON:http://myjson.com/</li>
+   </ul>
 <h2>Gulp Install</h2>
 <p>We need Node.js to run Gulp
 https://nodejs.org/en/</p>
