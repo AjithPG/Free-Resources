@@ -5,7 +5,14 @@ A useful codes,Notes and tutorials for front end developers
 <li>Online IDE:https://repl.it/</li>
 
 <h2>Useful Resources for Web developers<h2>
- 
+ <h3>Free Fonts</h3>
+ <ul>
+  <li>https://open-foundry.com/</li>
+  <li>https://www.myfonts.com/</li>
+  <li>https://freedesignresources.net/</li>
+  <li>https://www.awwwards.com/awwwards/collections/free-fonts/</li>
+  <li>https://fonts.google.com/</li>
+  </ul>
  <h3>Wireframing Tool<h3>
  <ul>
    <li>Glify:https://go.gliffy.com/</li>
@@ -52,31 +59,3 @@ A useful codes,Notes and tutorials for front end developers
     <li>JSON-Gen::https://next.json-generator.com/</li>
     <li>JSON:http://myjson.com/</li>
    </ul>
-<h2>Gulp Install</h2>
-<p>We need Node.js to run Gulp
-https://nodejs.org/en/</p>
-
-
-<p>Install gulp through cmd and Check gulp version</p>
-<ul>
-  <li>npm install gulp -g</li>
-  
-  <li>gulp --version</li>
-</ul>
-
-<p>Creating a task in gulp</p>
-<code>
-  gulp.task('task-name', function() {
-   //do stuff here
-});
-</code>
-<h2>Installing Plugins</h2>
-<h3>Gulp plugin to minify CSS, using <code>clean-css</code></h3>
-<h4>Install</h4>
-<code>npm install gulp-clean-css --save-dev</code>
-
-<p>Add this line to gulpfile.js</p>
-<code>var cleanCSS = require('gulp-clean-css');</code>
-
-<h4>Task to minify-css</h4>
-<code></code>
