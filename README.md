@@ -63,7 +63,7 @@ A useful codes,Notes and tutorials for front end developers
    </ul>
    <h3>JS libraries for Front End Developers</h3>
    <ul>
-    <li>Typed js:For creating a typing animation
+    <li>Typed js:For creating a typing animation-
      https://mattboldt.com/demos/typed-js/</li>
    </ul>
    
