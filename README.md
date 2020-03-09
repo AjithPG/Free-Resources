@@ -59,6 +59,8 @@ A useful codes,Notes and tutorials for front end developers
    <h3>Useful Tools for Front-end developers </h3>
     <ul>
     <li>CSS Tool:https://enjoycss.com/</li>
+     <li>Code playground:https://prettier.io/playground/</li>
+     <li>Reusable Components:https://bit.dev/</li>
     </ul>
 
    <h3>Json Generator</h3>
