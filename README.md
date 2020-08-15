@@ -28,7 +28,7 @@ A useful codes,Notes and tutorials for front end developers
  <h3>Free Illustartions</h3>
  <ul>
  <li>lukaszadam:https://lukaszadam.com</li>
- <li>undraw:https://undraw.co<li>
+ <li>undraw:https://undraw.co</li>
   <li>Stubborn:https://stubborn.fun/</li>
  <li>DrawKit:https://www.drawkit.io/</li>
   <li>whoosh:https://www.ls.graphics/whoosh</li>
