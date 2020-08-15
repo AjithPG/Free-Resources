@@ -6,7 +6,7 @@ A useful codes,Notes and tutorials for front end developers
 
 <h2>Useful Resources for Web developers<h2>
 
-   <h3>Free Website Hosting</h3>
+ <h3>Free Website Hosting</h3>
  <ul>
   <li>https://pages.github.com</li>
   <li>https://www.netlify.com</li>
@@ -14,7 +14,7 @@ A useful codes,Notes and tutorials for front end developers
   <li>https://firebase.google.com/products/hosting</li>
   <li>https://cloud.google.com</li>
   <li>https://aws.amazon.com/s3</li>
-  <li>https://azure.microsoft.com<li>
+  <li>https://azure.microsoft.com</li>
   </ul>
 
  <h3>Free Fonts</h3>
@@ -33,6 +33,16 @@ A useful codes,Notes and tutorials for front end developers
  <li>DrawKit:https://www.drawkit.io/</li>
   <li>whoosh:https://www.ls.graphics/whoosh</li>
  </ul>
+ 
+  <h3>Free PNG Images</h3>
+ <ul>
+  <li>https://www.pngguru.com/</li>
+  <li>https://www.cleanpng.com/</li>
+  <li>https://www.kindpng.com/</li>
+  <li>https://www.pngitem.com/</li>
+  <li>https://www.pngwing.com/</li>
+   <li>https://favpng.com/</li>
+  </ul>
  <h3>Wireframing Tool<h3>
  <ul>
    <li>Glify:https://go.gliffy.com/</li>
