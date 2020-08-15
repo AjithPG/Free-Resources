@@ -27,6 +27,7 @@ A useful codes,Notes and tutorials for front end developers
   </ul>
  <h3>Free Illustartions</h3>
  <ul>
+ <li>https://www.freepik.com/</li>
  <li>https://lukaszadam.com</li>
  <li>https://undraw.co</li>
  <li>https://stubborn.fun/</li>
@@ -37,6 +38,12 @@ A useful codes,Notes and tutorials for front end developers
  <li>https://www.opendoodles.com/</li>
  <li>https://www.ls.graphics/illustrations/wham</li>
  <li>https://www.isometriclove.com/</li>
+ <li>https://storytale.io/freebies/</li>
+ <li>https://amritpaldesign.com/3d-illustrations</li>
+ <li>https://www.getillustrations.com/illustration-packs/freebie</li>
+ <li>https://www.handz.design/</li>
+ <li>https://www.vecteezy.com/</li>
+ 
  </ul>
  
   <h3>Free PNG Images</h3>
