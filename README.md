@@ -8,13 +8,13 @@ A useful codes,Notes and tutorials for front end developers
 
    <h3>Free Website Hosting</h3>
  <ul>
-  <li>https://pages.github.com/</li>
-  <li>https://www.netlify.com/</li>
+  <li>https://pages.github.com</li>
+  <li>https://www.netlify.com</li>
+  <li>https://www.heroku.com</li>
   <li>https://firebase.google.com/products/hosting</li>
-  <li>https://cloud.google.com/</li>
-  <li>https://aws.amazon.com/s3/</li>
-  <li>https://azure.microsoft.com/<li>
-  <li>https://www.heroku.com/</li>
+  <li>https://cloud.google.com</li>
+  <li>https://aws.amazon.com/s3</li>
+  <li>https://azure.microsoft.com<li>
   </ul>
 
  <h3>Free Fonts</h3>
