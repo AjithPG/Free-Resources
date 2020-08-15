@@ -15,6 +15,7 @@ A useful codes,Notes and tutorials for front end developers
   <li>https://cloud.google.com</li>
   <li>https://aws.amazon.com/s3</li>
   <li>https://azure.microsoft.com</li>
+ <li>https://vercel.com/</li>
   </ul>
 
  <h3>Free Fonts</h3>
@@ -78,6 +79,18 @@ A useful codes,Notes and tutorials for front end developers
   <li>http://khroma.co/train/</li>
   <li>https://material.io/design/color/</li>
   </ul>
+  
+  <h3>Free Tool to create source code image</h3>
+  <li>https://carbon.now.sh/</li>
+  <li>https://codeimg.io/</li>
+  
+  <h3>Free Email Template</h3>
+  <li>https://beefree.io/templates/free/</li>
+  
+  <h3>Free Privacy Policy Maker</h3>
+  <li>https://getterms.io/</li>
+  
+  
  <h3>Wireframing Tool<h3>
  <ul>
    <li>Glify:https://go.gliffy.com/</li>
