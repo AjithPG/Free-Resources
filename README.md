@@ -27,11 +27,11 @@ A useful codes,Notes and tutorials for front end developers
   </ul>
  <h3>Free Illustartions</h3>
  <ul>
- <li>lukaszadam:https://lukaszadam.com</li>
- <li>undraw:https://undraw.co</li>
- <li>Stubborn:https://stubborn.fun/</li>
- <li>DrawKit:https://www.drawkit.io/</li>
- <li>whoosh:https://www.ls.graphics/whoosh</li>
+ <li>https://lukaszadam.com</li>
+ <li>https://undraw.co</li>
+ <li>https://stubborn.fun/</li>
+ <li>https://www.drawkit.io/</li>
+ <li>https://www.ls.graphics/whoosh</li>
  <li>https://sketchvalley.com/</li>
  <li>https://blush.design/</li>
  <li>https://www.opendoodles.com/</li>
@@ -59,6 +59,17 @@ A useful codes,Notes and tutorials for front end developers
   <li>https://remixicon.com/</li>
   <li>https://akveo.github.io/eva-icons/</li>
   <li>https://iconset.io/set/feather</li>
+  </ul>
+    <h3>Free Colors</h3>
+ <ul>
+  <li>https://colors.muz.li/</li>
+  <li>https://colorhunt.co/</li>
+  <li>https://color.adobe.com/create/color-wheel</li>
+  <li>https://www.culrs.com/</li>
+  <li>https://colors.lol/</li>
+  <li>https://coolors.co/</li>
+  <li>http://khroma.co/train/</li>
+  <li>https://material.io/design/color/</li>
   </ul>
  <h3>Wireframing Tool<h3>
  <ul>
