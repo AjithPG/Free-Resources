@@ -5,13 +5,16 @@ A useful codes,Notes and tutorials for front end developers
 <li>Online IDE:https://repl.it/</li>
 
 <h2>Useful Resources for Web developers<h2>
-  <h3>Free Website Hosting</h3>
-  <li>https://pages.github.com/<li>
-  <li>https://www.netlify.com/<li>
-  <li>https://firebase.google.com/products/hosting<li>
-  <li>https://cloud.google.com/<li>
-  <li>https://aws.amazon.com/s3/<li>
+
+   <h3>Free Website Hosting</h3>
+ <ul>
+  <li>https://pages.github.com/</li>
+  <li>https://www.netlify.com/</li>
+  <li>https://firebase.google.com/products/hosting</li>
+  <li>https://cloud.google.com/</li>
+  <li>https://aws.amazon.com/s3/</li>
   <li>https://azure.microsoft.com/<li>
+  </ul>
 
  <h3>Free Fonts</h3>
  <ul>
