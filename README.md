@@ -1,4 +1,4 @@
-# Front-End-Developers-KeyNotes
+#Free Resources Online
 A useful codes,Notes and tutorials for front end developers
 <h2>Best Tools for developers</h2>
 <li>Webcode Tools:https://webcode.tools/</li>
