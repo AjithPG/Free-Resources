@@ -48,6 +48,18 @@ A useful codes,Notes and tutorials for front end developers
   <li>https://www.pngwing.com/</li>
    <li>https://favpng.com/</li>
   </ul>
+  
+  <h3>Free Icons</h3>
+ <ul>
+  <li>https://www.flaticon.com/</li>
+  <li>https://material.io/resources/icons/</li>
+  <li>https://fontawesome.com/</li>
+  <li>https://icons8.com/</li>
+  <li>https://thenounproject.com/</li>
+  <li>https://remixicon.com/</li>
+  <li>https://akveo.github.io/eva-icons/</li>
+  <li>https://iconset.io/set/feather</li>
+  </ul>
  <h3>Wireframing Tool<h3>
  <ul>
    <li>Glify:https://go.gliffy.com/</li>
