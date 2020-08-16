@@ -91,11 +91,11 @@ A useful codes,Notes and tutorials for front end developers
   <li>https://getterms.io/</li>
   
   
- <h3>Wireframing Tool<h3>
+ <h3>Wireframing Tool</h3>
  <ul>
    <li>Glify:https://go.gliffy.com/</li>
  </ul>
-   <h3>Text Generator<h3>
+   <h3>Text Generator</h3>
  <ul>
    <li>Blind Text Generator:https://www.blindtextgenerator.com/lorem-ipsum</li>
  </ul>
