@@ -120,7 +120,7 @@ A useful codes,Notes and tutorials for front end developers
   <ul>
    <li>Filezilla: https://filezilla-project.org/</li>
   </ul>
-  <h3>Bootstrap<h3>
+  <h3>Bootstrap</h3>
    <ul>
     <li>
      Bootstrap Button Generator:http://www.plugolabs.com/twitter-bootstrap-button-generator-3
