@@ -156,14 +156,14 @@ A useful codes,Notes and tutorials for front end developers
    
    <h3>Best Javascript Library and Tools</h3>
    <ul>
-     <li>anime.js:https://animejs.com/<li>
-     <li>Three.js:https://threejs.org/</li>
-     <li>Animate.css:https://animate.style/</li>
-     <li>Howlerjs:https://howlerjs.com/</li>
-     <li>UI componentshttps://bit.dev/</li>
-     <li>Design System:https://designsystemsrepo.com/design-systems/</li>
-     <li>Chart.js:https://github.com/chartjs/Chart.js</li>
-     <li>Revealjs:https://revealjs.com/</li>
-     <li>videojs:https://videojs.com/</li>
-     <li>pixijs:https://www.pixijs.com/</li>
+     <li>anime.js: https://animejs.com/<li>
+     <li>Three.js: https://threejs.org/</li>
+     <li>Animate.css: https://animate.style/</li>
+     <li>Howlerjs: https://howlerjs.com/</li>
+     <li>UI componentshttps: //bit.dev/</li>
+     <li>Design System: https://designsystemsrepo.com/design-systems/</li>
+     <li>Chart.js: https://github.com/chartjs/Chart.js</li>
+     <li>Revealjs: https://revealjs.com/</li>
+     <li>videojs: https://videojs.com/</li>
+     <li>pixijs: https://www.pixijs.com/</li>
    </ul>
