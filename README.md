@@ -156,7 +156,7 @@ A useful codes,Notes and tutorials for front end developers
    
    <h3>Best Javascript Library and Tools</h3>
    <ul>
-     <li>anime.js: https://animejs.com/<li>
+     <li>anime.js: https://animejs.com/</li>
      <li>Three.js: https://threejs.org/</li>
      <li>Animate.css: https://animate.style/</li>
      <li>Howlerjs: https://howlerjs.com/</li>
