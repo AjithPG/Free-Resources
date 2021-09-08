@@ -5,6 +5,20 @@ A useful codes,Notes and tutorials for front end developers
 <li>Online IDE:https://repl.it/</li>
 
 <h2>Useful Resources for Web developers<h2>
+ 
+ <h3>Free Stock Images</h3>
+ <ul>
+  <li>https://www.pexels.com/</li>
+  <li>https://unsplash.com/</li>
+  <li>https://pixabay.com/</li>
+  <li>https://stocksnap.io/</li>
+  <li>https://burst.shopify.com/</li>
+  <li>https://negativespace.co/</li>
+  <li>https://picjumbo.com/<li>
+  <li>https://kaboompics.com/</li>
+
+  </ul>
+ 
 
  <h3>Free Website Hosting</h3>
  <ul>
@@ -67,6 +81,10 @@ A useful codes,Notes and tutorials for front end developers
   <li>https://remixicon.com/</li>
   <li>https://akveo.github.io/eva-icons/</li>
   <li>https://iconset.io/set/feather</li>
+  <li>https://css.gg/</li>
+  <li>https://heroicons.com/</li>
+  <li>https://feathericons.com/</li>
+  <li>https://tilda.cc/free-icons/</li>
   </ul>
     <h3>Free Colors</h3>
  <ul>
@@ -78,6 +96,16 @@ A useful codes,Notes and tutorials for front end developers
   <li>https://coolors.co/</li>
   <li>http://khroma.co/train/</li>
   <li>https://material.io/design/color/</li>
+  </ul>
+ 
+ <h3>Freelancing sites</h3>
+ <ul>
+  <li>https://www.upwork.com/</li>
+  <li>https://www.fiverr.com/</li>
+  <li>https://www.freelancer.in/</li>
+  <li>https://www.toptal.com/</li>
+  <li>https://www.peopleperhour.com/</li>
+ 
   </ul>
   
   <h3>Free Tool to create source code image</h3>
