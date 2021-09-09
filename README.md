@@ -14,7 +14,7 @@ A useful codes,Notes and tutorials for front end developers
   <li>https://stocksnap.io/</li>
   <li>https://burst.shopify.com/</li>
   <li>https://negativespace.co/</li>
-  <li>https://picjumbo.com/<li>
+  <li>https://picjumbo.com/</li>
   <li>https://kaboompics.com/</li>
 
   </ul>
