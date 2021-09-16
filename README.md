@@ -29,6 +29,11 @@ A useful codes,Notes and tutorials for front end developers
  
  ## Coding Challenges
  - [Hackerrank](https://www.hackerrank.com/)
+ - [Hackerearth](https://www.hackerearth.com/)
+ - [Leetcode](https://leetcode.com/)
+ - [Edabit](https://edabit.com/)
+ - [Coderbyte](https://coderbyte.com/)
+ - [CodingGame](https://www.codingame.com/)
  - [Hackerrank](https://www.hackerrank.com/)
 
 
