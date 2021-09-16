@@ -6,18 +6,17 @@ A useful codes,Notes and tutorials for front end developers
 
 <h2>Useful Resources for Web developers<h2>
  
- <h3>Free Stock Images</h3>
- <ul>
-  <li>https://www.pexels.com/</li>
-  <li>https://unsplash.com/</li>
-  <li>https://pixabay.com/</li>
-  <li>https://stocksnap.io/</li>
-  <li>https://burst.shopify.com/</li>
-  <li>https://negativespace.co/</li>
-  <li>https://picjumbo.com/</li>
-  <li>https://kaboompics.com/</li>
+ ## Stock Images
+ 
+ - [Pexels](https://www.pexels.com/)
+ - [Unsplash](https://unsplash.com/)
+ - [Pixabay](https://pixabay.com/)
+ - [Stocksnap]https://stocksnap.io/)
+ - [Burst](https://burst.shopify.com/)
+ - [Negativespace](https://negativespace.co/)
+ - [Picjumbo](https://picjumbo.com/)
+ - [Kamboopics](https://kaboompics.com/)
 
-  </ul>
  
   ## Free Website Templates
 
@@ -29,29 +28,24 @@ A useful codes,Notes and tutorials for front end developers
  
  ## Coding Challenges
  - [Hackerrank](https://www.hackerrank.com/)
+ - [Freecodecamp](https://www.freecodecamp.org/)
  - [Hackerearth](https://www.hackerearth.com/)
  - [Leetcode](https://leetcode.com/)
  - [Edabit](https://edabit.com/)
  - [Coderbyte](https://coderbyte.com/)
  - [CodingGame](https://www.codingame.com/)
- - [Hackerrank](https://www.hackerrank.com/)
 
 
- 
+  ## Coding Challenges
+ - [Github Pages](https://pages.github.com)
+ - [Netlify](https://www.netlify.com)
+ - [Heroku](https://www.heroku.com)
+ - [Firebase]https://firebase.google.com/products/hosting)
+ - [AWS](https://aws.amazon.com/s3m)
+ - [Azure](https://azure.microsoft.com)
+ - [Vercel](https://vercel.com/)
 
- 
 
- <h3>Free Website Hosting</h3>
- <ul>
-  <li>https://pages.github.com</li>
-  <li>https://www.netlify.com</li>
-  <li>https://www.heroku.com</li>
-  <li>https://firebase.google.com/products/hosting</li>
-  <li>https://cloud.google.com</li>
-  <li>https://aws.amazon.com/s3</li>
-  <li>https://azure.microsoft.com</li>
- <li>https://vercel.com/</li>
-  </ul>
 
  <h3>Free Fonts</h3>
  <ul>
