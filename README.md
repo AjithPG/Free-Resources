@@ -36,11 +36,11 @@ A useful codes,Notes and tutorials for front end developers
  - [CodingGame](https://www.codingame.com/)
 
 
-  ## Coding Challenges
+  ## Free Hosting
  - [Github Pages](https://pages.github.com)
  - [Netlify](https://www.netlify.com)
  - [Heroku](https://www.heroku.com)
- - [Firebase]https://firebase.google.com/products/hosting)
+ - [Firebase](https://firebase.google.com/products/hosting)
  - [AWS](https://aws.amazon.com/s3m)
  - [Azure](https://azure.microsoft.com)
  - [Vercel](https://vercel.com/)
