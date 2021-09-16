@@ -19,6 +19,22 @@ A useful codes,Notes and tutorials for front end developers
 
   </ul>
  
+  ## Free Website Templates
+
+- [Themefisher](https://themefisher.com/)
+- [Colorlib](https://colorlib.com/)
+- [Bootstrapmade](https://bootstrapmade.com/)
+- [Templatemo]( https://templatemo.com/)
+ 
+ 
+ ## Coding Challenges
+ - [Hackerrank](https://www.hackerrank.com/)
+ - [Hackerrank](https://www.hackerrank.com/)
+
+
+ 
+
+ 
 
  <h3>Free Website Hosting</h3>
  <ul>
@@ -108,9 +124,7 @@ A useful codes,Notes and tutorials for front end developers
  
   </ul>
  
- ## Authors
 
-- [Themefisher](https://themefisher.com/)
   
   <h3>Free Tool to create source code image</h3>
   <li>https://carbon.now.sh/</li>
