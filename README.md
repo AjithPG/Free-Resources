@@ -107,6 +107,10 @@ A useful codes,Notes and tutorials for front end developers
   <li>https://www.peopleperhour.com/</li>
  
   </ul>
+ 
+ ## Authors
+
+- [Themefisher](https://themefisher.com/)
   
   <h3>Free Tool to create source code image</h3>
   <li>https://carbon.now.sh/</li>
