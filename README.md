@@ -11,7 +11,7 @@ A useful codes,Notes and tutorials for front end developers
  - [Pexels](https://www.pexels.com/)
  - [Unsplash](https://unsplash.com/)
  - [Pixabay](https://pixabay.com/)
- - [Stocksnap]https://stocksnap.io/)
+ - [Stocksnap](https://stocksnap.io/)
  - [Burst](https://burst.shopify.com/)
  - [Negativespace](https://negativespace.co/)
  - [Picjumbo](https://picjumbo.com/)
