@@ -48,12 +48,12 @@ A useful codes,Notes and tutorials for front end developers
   ## UI Resources
  - [Sketchrepo]( https://sketchrepo.com/)
  - [Sketchappsources](https://www.sketchappsources.com/)
- - [UI Store](https://www.uistore.design/categories/ui-kits/)
  - [Freebieui](https://freebiesui.com/)
  - [UI Garage](https://uigarage.net/)
  - [Ui Bundle](https://uibundle.com/)
  - [Xdguru](https://www.xdguru.com/)
  - [Ui space](https://uispace.net/)
+ - [UI Store](https://www.uistore.design/categories/ui-kits/)
  - [Bloouikit](https://bloouikit.com/)
  - [Ui Design Daily](http://www.uidesigndaily.com/)
 
