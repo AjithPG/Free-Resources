@@ -56,6 +56,18 @@ A useful codes,Notes and tutorials for front end developers
  - [UI Store](https://www.uistore.design/categories/ui-kits/)
  - [Bloouikit](https://bloouikit.com/)
  - [Ui Design Daily](http://www.uidesigndaily.com/)
+ 
+ 
+  ## Stock Videos
+ 
+ - [Pexels Videos](https://www.pexels.com/videos/)
+ - [Coverr](https://coverr.co/)
+ - [Mixkit](https://mixkit.co/)
+ - [Pixabay Videos](https://pixabay.com/videos/)
+ - [Mazwai](https://mazwai.com/)
+ - [Videezy](https://www.videezy.com/)
+ - [Vidsplay](https://www.vidsplay.com/)
+
 
 
 
