@@ -59,6 +59,7 @@ A useful codes,Notes and tutorials for front end developers
  -[Figma Freebie](http://www.figmafreebi.es/)
  -[FigmaCrush] (https://www.figmacrush.com/)
  -[Figma Community](https://www.figma.com/community/)
+ -[Best Landing Pages] (https://land-book.com/)
  
  
   ## Stock Videos
