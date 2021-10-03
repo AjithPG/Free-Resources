@@ -24,7 +24,7 @@ A useful codes,Notes and tutorials for front end developers
 - [Colorlib](https://colorlib.com/)
 - [Bootstrapmade](https://bootstrapmade.com/)
 - [Templatemo]( https://templatemo.com/)
- 
+- [Inovatik](https://inovatik.com/)
  
  ## Coding Challenges
  - [Hackerrank](https://www.hackerrank.com/)
@@ -56,6 +56,9 @@ A useful codes,Notes and tutorials for front end developers
  - [UI Store](https://www.uistore.design/categories/ui-kits/)
  - [Bloouikit](https://bloouikit.com/)
  - [Ui Design Daily](http://www.uidesigndaily.com/)
+ -[Figma Freebie](http://www.figmafreebi.es/)
+ -[FigmaCrush] (https://www.figmacrush.com/)
+ -[Figma Community](https://www.figma.com/community/)
  
  
   ## Stock Videos
