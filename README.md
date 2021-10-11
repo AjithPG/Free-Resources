@@ -86,7 +86,14 @@ A useful codes,Notes and tutorials for front end developers
   <li>https://fonts.google.com/</li>
   </ul>
  <h3>Free Illustartions</h3>
+ 
+   - [Manypixels](https://www.manypixels.co/)
+   - [Freeillustartions](https://freeillustrations.xyz/)
+    
+ 
  <ul>
+ 
+
  <li>https://www.freepik.com/</li>
  <li>https://lukaszadam.com</li>
  <li>https://undraw.co</li>
